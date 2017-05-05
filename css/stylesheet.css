@@ -1,0 +1,29 @@
+body {
+	background-color:black;
+}
+
+footer {
+	text-align:center;
+	color:white;
+}
+
+h3	{
+	color:white;
+	text-align: center;
+	text-shadow: 1px 1px blue;
+}
+
+.carousel-inner > .item > img, 
+		.carousel-inner > .item > a > img{
+			width: 60%; /* use this, or not */
+			margin: auto;
+			
+}
+
+h2 {
+	text-shadow: 1px 1px red;
+}
+
+p {
+	font-style: italic;
+}
